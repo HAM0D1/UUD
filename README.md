@@ -1,1 +1,1 @@
-# UUD
+Have a better Management by disable thousands services and libraries and debuuging and logging services and Stops useless system libs and services and all logs and Multiuser Feature and all analytic services/recevier/ads/reporting/tracking.
